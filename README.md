@@ -2,6 +2,8 @@
 ## Em construção!
 Esse repositório contém o **projeto de calculadora em React** desenvolvido no [curso da Udemy](https://www.udemy.com/course/react-redux-pt/) do Leonardo Moura Leitão.
 
+Calculadora no momento:
+
 ![calculadora](calculadora.png)
 
 _em construção._

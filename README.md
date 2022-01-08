@@ -4,7 +4,7 @@ Esse repositório contém o **projeto de calculadora em React** desenvolvido no 
 
 Calculadora no momento:
 
-
+![calculadora](calculadora.png)
 
 _em construção._
 

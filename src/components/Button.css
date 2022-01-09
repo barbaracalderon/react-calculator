@@ -1,5 +1,5 @@
 :root {
-    --bg-button: #f0f0f0;
+    --bg-button: #d0d0d0;
     --border-button: solid 1px #888;
 }
 
@@ -25,10 +25,10 @@
 }
 
 .button.operation {
-    background-color: #fa8231;
+    background-color: #2b4764;
     color: #fff;
 }
 
 .button.operation:active {
-    background-color: #fa9231cc;
+    background-color: #2b4764cc;
 }

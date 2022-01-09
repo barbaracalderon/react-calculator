@@ -25,8 +25,8 @@ _Fim._
 
 ## Notes
 
-"**As best as you can**, you should you **stateless components**. 
+"**As best as you can**, you should use **stateless components**. 
 
-Because a stateless component works in a less complex way: it receives entry parameters and render them to components. It doesn't change with time and so it's easier to work this way. Of course, eventually some components will have to be stateful. Leave it to these guys to use the "state" aspect of it."
+Because a stateless component works in a less complex way: it receives entry parameters and render them to other components. It doesn't change with time and so it's easier to work this way. Of course, eventually some components will have to be stateful. Leave it to these guys to use the "state" aspect of it."
 
 _The end._

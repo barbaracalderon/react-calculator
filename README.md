@@ -18,7 +18,7 @@ Com comentários no código para lembrete e informação.
 
 _Fim._
 
-# Calculator in React.js
+# EN: Calculator in React.js
 
 
 ⚠️ _This was done as I followed up a calculator project from the React and Redux course by Leonardo Moura Leião. You can find the course [on Udemy here](https://www.udemy.com/course/react-redux-pt/)._ ⚠️
